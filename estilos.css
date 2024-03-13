@@ -40,7 +40,7 @@
     height: 100%;
     outline: none;
     border: none;
-
+text-transform: lowercase;
     font-style: normal;
     font-weight: 400;
     font-size: 32px;
